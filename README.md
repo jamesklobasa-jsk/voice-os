@@ -2,7 +2,7 @@
 
 **Extract your exact voice. Make any AI sound like you — specifically you.**
 
-Not generically human. Not "less robotic." *You.* Your frameworks, your stories, your language, your rhythm.
+Not generically human. Not "less robotic." *You.* Your frameworks, your IP, your quirks, your favourite sayings, your stories, your language, your rhythm. More YOU than you. 
 
 ---
 
