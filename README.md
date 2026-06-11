@@ -103,5 +103,5 @@ MIT — use it, share it, build on it.
 
 ---
 
-*Built from the APA Voice Codex framework — June 2026*
+*Built from the JK Voice Codex framework — June 2026*
 *Voice DNA v1.0*
