@@ -1,4 +1,4 @@
-# Voice OS (Example)
+# Voice OS (Example - Built as Voice in Vet Industry)
 
 *The master voice reference for all assets, in any format. This document is self-contained. No cross-reference required for voice work.*
 
