@@ -2,7 +2,7 @@
 
 **Extract your exact voice. Make any AI sound like you — specifically you.**
 
-Not generically human. Not "less robotic." *You.* Your frameworks, your stories, your language, your rhythm.
+Not generically human. Not "less robotic." *You.* Your frameworks, your stories, your language, your rhythm. Uncannily like you.
 
 ---
 
@@ -16,7 +16,7 @@ That's the gap Voice OS fills.
 
 ## How It Works
 
-**One time:** Dump everything you've ever written into Claude or ChatGPT with the Voice OS extraction prompt. Get back a portable `.md` file — your Voice OS.
+**One time:** Dump everything you've ever written, transcribed or recorded into Claude or ChatGPT with the Voice OS extraction prompt. Get back a portable `.md` file — your Voice OS.
 
 **Every time after:** Open any AI, paste your Voice OS file + the content you want transformed. Done.
 
@@ -46,7 +46,7 @@ Most AI tools only capture surface-level style. Voice OS goes deeper:
 1. Open [Claude](https://claude.ai) or [ChatGPT](https://chat.openai.com)
 2. Copy the prompt from [`voice-os-prompt.md`](./voice-os-prompt.md)
 3. Paste it into a new chat
-4. Dump everything underneath it: emails, posts, transcripts, messages, anything you've written
+4. Dump everything underneath it: emails, posts, transcripts, recordings, messages, anything you've written or said. Best to save them as a few files as most platforms limit uploads. 
 5. Hit send
 6. Save the output as `yourname-voice-os.md`
 
