@@ -1,10 +1,10 @@
-# Voice OS (Example)
+# Voice OS (Example Output)
 
 *The master voice reference for all assets, in any format. This document is self-contained. No cross-reference required for voice work.*
 
 *Alex Morgan's\* voice should be recognisable whether the piece is a soft Tuesday nurture email, a punchy sales email driving a Friday deadline, a Facebook ad caption, a sales page, a book chapter, a webinar invite, or a Slack message to a coaching client. The voice is constant. The register modulates.*
 
-*Last updated: June 2026. Version 4. Added Part Five: The Real-Alex Filter and the Alex-ism Lexicon.*
+*Last updated: June 2026. Version 1.*
 
 ---
 
