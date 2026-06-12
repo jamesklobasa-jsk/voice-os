@@ -1,7 +1,7 @@
 ---
-name: voice-dna-extraction
+name: voice-os-extraction
 description: |
-  Extract, encode, and apply a person's Voice DNA from raw writing samples.
+  Extract, encode, and apply a person's Voice OS from raw writing samples.
   Produces a portable voice codex that transforms any AI-generated content
   into the person's authentic voice — not generically human, but specifically them.
 version: 1.0.0
@@ -12,7 +12,7 @@ metadata:
     category: creative
 ---
 
-# Voice DNA Extraction
+# Voice OS Extraction
 
 A methodology for encoding someone's authentic voice so AI-generated content
 can be transformed to sound like them — not generically human, but specifically them.
@@ -49,19 +49,19 @@ extracted from the person's own content. The most important and most overlooked 
 
 ## When To Use This Skill
 
-- User wants to extract their own Voice DNA
+- User wants to extract their own Voice OS
 - User wants to transform AI content into their voice
 - User wants to build a reusable voice file for ongoing use
 
 ---
 
-## Step 1: Extract the Voice DNA
+## Step 1: Extract the Voice OS
 
 Tell Hermes:
-> "Extract my Voice DNA from this content." Then dump all your writing.
+> "Extract my Voice OS from this content." Then dump all your writing.
 
 Hermes will run the extraction protocol across all 6 layers and produce a structured
-Voice DNA `.md` file saved to your local machine.
+Voice OS `.md` file saved to your local machine.
 
 **Accept any input:**
 - Emails, social posts, voice memo transcripts, podcast transcripts
@@ -80,10 +80,10 @@ Voice DNA `.md` file saved to your local machine.
 Tell Hermes:
 > "Transform this content into my voice." Then paste the AI content.
 
-Hermes will apply the stored Voice DNA file to rewrite the content.
+Hermes will apply the stored Voice OS file to rewrite the content.
 
 **Transformation checklist:**
-1. Strip all Banned List phrases (Section 9 of the Voice DNA file)
+1. Strip all Banned List phrases (Section 9 of the Voice OS file)
 2. Rebuild rhythm using the mechanics (Section 2)
 3. Replace vocabulary with their words (Section 3)
 4. Apply their structural moves (Section 4)
@@ -93,7 +93,7 @@ Hermes will apply the stored Voice DNA file to rewrite the content.
 
 ---
 
-## Output: The Voice DNA File
+## Output: The Voice OS File
 
 A structured markdown document covering all 12 sections:
 
@@ -110,7 +110,7 @@ A structured markdown document covering all 12 sections:
 11. Voice Test (proof-of-concept paragraph)
 12. Transformation Instructions
 
-Save as `yourname-voice-dna.md`. Works in any AI — Claude, ChatGPT, Gemini, anything.
+Save as `yourname-voice-os.md`. Works in any AI — Claude, ChatGPT, Gemini, anything.
 
 ---
 
