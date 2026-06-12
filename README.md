@@ -1,4 +1,4 @@
-# Voice DNA
+# Voice OS
 
 **Extract your exact voice. Make any AI sound like you — specifically you.**
 
@@ -10,15 +10,15 @@ Not generically human. Not "less robotic." *You.* Your frameworks, your stories,
 
 Every AI writing tool tries to make content sound human. None of them make it sound like *you specifically*.
 
-That's the gap Voice DNA fills.
+That's the gap Voice OS fills.
 
 ---
 
 ## How It Works
 
-**One time:** Dump everything you've ever written into Claude or ChatGPT with the Voice DNA extraction prompt. Get back a portable `.md` file — your Voice DNA.
+**One time:** Dump everything you've ever written into Claude or ChatGPT with the Voice OS extraction prompt. Get back a portable `.md` file — your Voice OS.
 
-**Every time after:** Open any AI, paste your Voice DNA file + the content you want transformed. Done.
+**Every time after:** Open any AI, paste your Voice OS file + the content you want transformed. Done.
 
 No app. No login. No subscription. Works in Claude, ChatGPT, Gemini — any AI, forever.
 
@@ -26,7 +26,7 @@ No app. No login. No subscription. Works in Claude, ChatGPT, Gemini — any AI, 
 
 ## What Gets Captured (The 6 Layers)
 
-Most AI tools only capture surface-level style. Voice DNA goes deeper:
+Most AI tools only capture surface-level style. Voice OS goes deeper:
 
 | Layer | What It Captures |
 |-------|-----------------|
@@ -41,27 +41,27 @@ Most AI tools only capture surface-level style. Voice DNA goes deeper:
 
 ## Quick Start
 
-### Step 1 — Extract Your Voice DNA
+### Step 1 — Extract Your Voice OS
 
 1. Open [Claude](https://claude.ai) or [ChatGPT](https://chat.openai.com)
-2. Copy the prompt from [`voice-dna-prompt.md`](./voice-dna-prompt.md)
+2. Copy the prompt from [`voice-os-prompt.md`](./voice-os-prompt.md)
 3. Paste it into a new chat
 4. Dump everything underneath it: emails, posts, transcripts, messages, anything you've written
 5. Hit send
-6. Save the output as `yourname-voice-dna.md`
+6. Save the output as `yourname-voice-os.md`
 
 **Minimum viable input:** ~1,500 words of your own writing. More = better.
 
-### Step 2 — Use Your Voice DNA
+### Step 2 — Use Your Voice OS
 
 Open a new AI chat and start with:
 
 ```
-Here is my Voice DNA file. Use it to transform the content I give you 
+Here is my Voice OS file. Use it to transform the content I give you 
 into my exact voice. Do not summarise, change the meaning, or add ideas. 
 Just rewrite in my voice.
 
-[Paste your Voice DNA file]
+[Paste your Voice OS file]
 
 [Paste the AI content you want transformed]
 ```
@@ -74,7 +74,7 @@ That's it.
 
 | File | What It Is |
 |------|-----------|
-| [`voice-dna-prompt.md`](./voice-dna-prompt.md) | The extraction prompt — copy, paste, dump your writing, get your Voice DNA |
+| [`voice-os-prompt.md`](./voice-os-prompt.md) | The extraction prompt — copy, paste, dump your writing, get your Voice OS |
 | [`voice-os-example.md`](./voice-os-example.md) | A full real-world Voice OS example — see exactly what a completed Voice OS looks like |
 | [`hermes-skill/SKILL.md`](./hermes-skill/SKILL.md) | Hermes Agent skill — for users running [Hermes Agent](https://hermes-agent.nousresearch.com) |
 
@@ -92,7 +92,7 @@ See [`hermes-skill/SKILL.md`](./hermes-skill/SKILL.md) for setup.
 
 - **The banned list is more revealing than the positive list.** What you never say defines your voice faster than what you do say.
 - **Owned IP (Layer 6) cannot be generated.** Only extracted. Real named stories and frameworks are the most important layer — and the most overlooked.
-- **Dump everything.** Don't curate. The AI finds the patterns. More input = more accurate Voice DNA.
+- **Dump everything.** Don't curate. The AI finds the patterns. More input = more accurate Voice OS.
 - **The register modulates; the voice doesn't.** Your casual post and your sales email should sound like the same person — just at different speeds.
 
 ---
@@ -104,4 +104,4 @@ MIT — use it, share it, build on it.
 ---
 
 *Built from the APA Voice Codex framework — June 2026*
-*Voice DNA v1.0*
+*Voice OS v1.0*
