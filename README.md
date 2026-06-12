@@ -2,7 +2,7 @@
 
 **Extract your exact voice. Make any AI sound like you — specifically you.**
 
-Not generically human. Not "less robotic." *You.* Your frameworks, your IP, your quirks, your favourite sayings, your stories, your language, your rhythm. More YOU than you. 
+Not generically human. Not "less robotic." *You.* Your frameworks, your stories, your language, your rhythm.
 
 ---
 
@@ -75,7 +75,7 @@ That's it.
 | File | What It Is |
 |------|-----------|
 | [`voice-dna-prompt.md`](./voice-dna-prompt.md) | The extraction prompt — copy, paste, dump your writing, get your Voice DNA |
-| [`example-output.md`](./example-output.md) | A sample completed Voice DNA file so you know what to expect |
+| [`voice-os-example.md`](./voice-os-example.md) | A full real-world Voice OS example — see exactly what a completed Voice OS looks like |
 | [`hermes-skill/SKILL.md`](./hermes-skill/SKILL.md) | Hermes Agent skill — for users running [Hermes Agent](https://hermes-agent.nousresearch.com) |
 
 ---
@@ -103,5 +103,5 @@ MIT — use it, share it, build on it.
 
 ---
 
-*Built from the JK Voice Codex framework — June 2026*
+*Built from the APA Voice Codex framework — June 2026*
 *Voice DNA v1.0*
